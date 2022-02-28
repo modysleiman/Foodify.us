@@ -691,7 +691,7 @@ app.route("/follow/:userid/:username").get((req, res) => {
             user1.userName,
             " 's Followers List"
           );
-          res.status(200).json("Success!")
+          res.status(200).json("Success!");
 
           /* ADD USERID'S USERNAME TO USERNAMES FOLLOWERS LIST */
         })
@@ -746,7 +746,7 @@ app.route("/unfollow/:userid/:username").get((req, res) => {
             user1.userName,
             " 's Followers List"
           );
-          res.status(200).json("Success!")
+          res.status(200).json("Success!");
           /* ADD USERID'S USERNAME TO USERNAMES FOLLOWERS LIST */
         })
         .catch((err) => res.status(400).json("Error: " + err));
