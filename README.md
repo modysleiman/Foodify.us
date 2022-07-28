@@ -2,7 +2,9 @@
 Contributed by Tiffany Nguyen, Christine Nguyen, Jia Cherng Ng, Mohammad Sleiman
 
 ## Description
-Foodify.us is an application that generates recipes recommendations based on users’ diet preferences, restrictions, calorie limit and etc.  Aside from being a recipe generator, Foodify.us also provides a platform for fellow foodies out there to share their recipes, and allow users to follow accounts that they are interested in. These interactions with the app would provide a more tailored experience for users, as it helps to improve the algorithm on what you would like best.
+Foodify.us is a web application to get recipe recommendations based on users’ diet preferences, restrictions, calorie limit and etc. Foodify.us provides a platform for experienced and novice culinary enthusiasts alike to share their recipes and build a following through user account following, and get feedback through users' recipe comment reviews and ratings. The center of the user experience is a Discovery Feed, a culmination of recipes based on user interactions and who they follow.
+
+Foodify is built primarily on React and NodeJS
  
  <img src="https://i.imgur.com/ZrpXkVw.png" width="500" >
  <img src="https://i.imgur.com/HF9Zm5f.png" width="500" >
